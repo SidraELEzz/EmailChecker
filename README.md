@@ -126,6 +126,12 @@ elif Logan ==False:
 	
 ```
 
+## ***Thanks RUKS***
+
+* Telegram : [RUKS](https://t.me/DIBIBl)
+
+* Github. : [RUKS](https://github.com/muntazir-halim)
+
 ## Follow us on social media
 
 [![Github](https://img.shields.io/badge/Github-SidraELEzz-orange?style=for-the-badge&logo=github)](https://github.com/SidraELEzz/)
